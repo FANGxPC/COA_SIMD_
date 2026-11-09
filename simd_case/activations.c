@@ -1,6 +1,7 @@
 // activations.c
 // Compile variants similarly with -DUSE_AVX2 for AVX2 variant.
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
